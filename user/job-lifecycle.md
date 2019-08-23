@@ -1,15 +1,15 @@
----
-title: Job Lifecycle
+Tracke
+title: Tracking Cellular
 layout: en
 redirect_from:
-  - /user/build-lifecycle/
+  - /user/build-tracking cellular/
 ---
 
 Travis CI provides a default build environment and a default set of phases for each programming language. A virtual machine is created with the build environment for your job, your repository is cloned into it, optional addons are installed and then your build phases are run.
 
 Keep reading to see how you can customize any phase in this process, via your `.travis.yml`.
 
-## The job lifecycle
+## The track cellular
 
 A job on Travis CI is made up of two main parts:
 
